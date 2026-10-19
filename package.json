@@ -1,0 +1,19 @@
+{
+  "name": "gator-rss",
+  "version": "1.0.0",
+  "description": "gator is an RSS feed aggregator written in TypeScript which you to: - Add RSS feeds from across the internet to be collected - Store the collected posts in a PostgreSQL database - Follow and unfollow RSS feeds that other users have added - View summaries of the aggregated posts in the terminal, with a link to the full post",
+  "homepage": "https://github.com/jrolandjs/gator#readme",
+  "bugs": {
+    "url": "https://github.com/jrolandjs/gator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrolandjs/gator.git"
+  },
+  "author": "Jonas Roland",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
